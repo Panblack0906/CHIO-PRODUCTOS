@@ -1,0 +1,6 @@
+{
+  "name": "CHIO Productos",
+  "description": "Encuentra variedad, calidad y estilo para tu día a día en un solo lugar con CHIO Productos. Accesorios, productos de belleza, organización para el hogar y muchas otras novedades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
